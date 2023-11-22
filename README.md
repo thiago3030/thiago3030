@@ -1,7 +1,8 @@
 
 ### Olá! Eu sou o Thiago 😊
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago3030&show_icons=true&theme=radical)
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago3030&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago3030&langs_count=8)
 
 ## Tecnologias que eu uso no meu dia
 
