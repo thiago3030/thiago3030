@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiago3030&theme=midnight-purple" />
 </a>
 <a href="https://github.com/thiago3030/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago3030&layout=compact&theme=midnight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago3030&layout=compact&lags_count=8&card_width=320&theme=midnight-purple" />
 </a>
 
 ## 💻 Tech Stack:
